@@ -28,7 +28,7 @@
         
         
         
-          Čia yra mano turinys.
+          Paveikslelis:
 Čia yra mano kodo citata:
 func main() { fmt.Println(&amp;#34;Labas Pasauli!&amp;#34;) } 
           
