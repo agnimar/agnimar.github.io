@@ -2,37 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    
-    
-    
     <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Nov 2023 16:23:24 +0200</lastBuildDate>
-    
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 18 Mar 2023 12:00:00 +0200</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Puslapis</title>
-      <link>https://example.org/posts/puslapis/</link>
-      <pubDate>Sat, 25 Nov 2023 16:23:24 +0200</pubDate>
-      
-      <guid>https://example.org/posts/puslapis/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Tekstas tekstas tekstas tekstas tekstas tekstas tekstas tekstas tekstas tekstas
-          
-        
-        </description>
+      <title>Mano Puslapis</title>
+      <link>https://example.org/posts/mano-puslapis/</link>
+      <pubDate>Sat, 18 Mar 2023 12:00:00 +0200</pubDate>
+      <guid>https://example.org/posts/mano-puslapis/</guid>
+      <description>Čia yra mano turinys.
+Čia yra mano kodo citata:
+func main() { fmt.Println(&amp;#34;Labas Pasauli!&amp;#34;) } </description>
     </item>
-    
   </channel>
 </rss>
